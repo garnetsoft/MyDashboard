@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Repository;
 
 import com.avaldes.model.Statistics;
- 
+
 @Repository
 public class DashboardRepository {
   private static final Logger logger = LoggerFactory.getLogger(DashboardRepository.class);
