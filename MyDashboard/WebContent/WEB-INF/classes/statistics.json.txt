@@ -1,0 +1,13 @@
+{
+    "_id" : "1",
+    "todayHeading" : "API Calls Today",
+    "todayCount" : 8651,
+    "todayAverage" : 13.560,
+    "todayAverageSubheading" : "Daily Average Duration",
+    "onboardedHeading" : "New Hires",
+    "onboardedCount" : 71,
+    "onboardedSubheading" : "Number of users recently hired",
+    "signupsHeading" : "New Sales",
+    "signupsCount" : 96,
+    "signupsSubheading" : "Number of sales initiated"
+}
